@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/TheDarkCode/azure-search-ios.svg?branch=master)](https://travis-ci.org/TheDarkCode/azure-search-ios)
 <h1 align="center">
 
 <!--span style="height:72px;"><img src="https://raw.githubusercontent.com/TheDarkCode/azure-search-ios/master/src/azure-search-basics/azure-search-basics/Assets.xcassets/AppIcon.appiconset/Icon-72.png" alt="AngularAzureSearch"></span-->
